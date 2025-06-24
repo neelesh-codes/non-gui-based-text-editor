@@ -1,1 +1,5 @@
-
+commands	work	how to use
+./sh$ow	read file	just type this in the command prompt after giving file path.
+./wr$te	write in the file and erase old context	just type this in the command prompt after giving file path and then press enter and type what you want to write there.
+./app$nd	to append text in the file.	just type this in the command prompt after giving file path and then press enter and type what you want to write there
+./he$p	to see for help	type this in the starting instead of file path and you will see this table there.
