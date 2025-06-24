@@ -7,7 +7,7 @@ git clone https://github.com/neelesh-codes/non-gui-based-text-editor
 ```
 or download a .zip file by clicking the code button.
 
-after that do this in the command prompt terminal or power shell:
+after that do this in the command prompt, terminal or power shell:
 ### On windows
 ```pip
 pip install openpyxl numpy pandas
@@ -33,9 +33,9 @@ pip3 install openpyxl numpy pandas
    
 ```pip
 pip install openpyxl numpy pandas
-
 ```
-if you want to know about commands see the help.xlsx file.
+
+### if you want to know about commands see the help.xlsx file.
 
 
 
